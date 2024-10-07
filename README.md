@@ -86,7 +86,7 @@ Open a Pull Request
 📧 Contact
 Your Name -naiyan.noor@yahoo.co.uk
 
-Project Link: https://github.com/yourusername/foodie-restaurant
+Project Link: https://github.com/NaiyanNoor/Foodie
 
 📜 License
 Distributed under the MIT License. See LICENSE for more information.
