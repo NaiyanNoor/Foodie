@@ -12,16 +12,27 @@ https://naiyannoor.github.io/Foodie/index.html
 graphq
 Copy code
 ├── public/
+
 │   ├── index.html      # Main HTML file
+
 │   └── images/         # All images and logos
+
 ├── src/
+
 │   ├── assets/         # Static assets like images, icons, fonts
+
 │   ├── components/     # Reusable React/Vue components
+
 │   ├── pages/          # Individual pages (Home, Menu, Contact)
+
 │   ├── styles/         # CSS or SCSS files for styling
+
 │   └── App.js          # Main app component
+
 ├── package.json        # Project configuration and dependencies
+
 └── README.md           # This README file
+
 
 
 🎨 Features
@@ -46,7 +57,8 @@ To run this project locally, follow these steps:
 Clone the repo:
 bash
 Copy code
-git clone https://github.com/yourusername/foodie-restaurant.git
+git clone [(https://github.com/NaiyanNoor/Foodi](https://github.com/NaiyanNoor/Foodie)
+
 Navigate to the project folder:
 bash
 Copy code
