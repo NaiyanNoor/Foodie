@@ -1,6 +1,6 @@
 
 To create a GitHub README for a "Foodie Restaurant" front-end developer project, here’s a structured example you can follow. Feel free to adapt it to suit your project specifics!
-
+vv
 🍽️ Foodie Restaurant Frontend
 Welcome to Foodie Restaurant, a modern and stylish web application for restaurant lovers! This project features an elegant design to showcase a restaurant's menu, location, and services, all optimized for a seamless user experience.
 
